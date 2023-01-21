@@ -12,5 +12,5 @@ app
     port: 3333,
   })
   .then(() => {
-    console.log("HTTP server listening on port 3333");
+    console.log("HTTP Server running!");
   });
